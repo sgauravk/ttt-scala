@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/gauravsa/IdeaProjects/projects/ttt-scala/target/scala-2.13/tic-tac-toe_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ttt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gauravsa/IdeaProjects/projects/ttt-scala/target/scala-2.13/classes/ttt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ttt/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gauravsa/IdeaProjects/projects/ttt-scala/target/scala-2.13/classes/ttt/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ttt/Game.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gauravsa/IdeaProjects/projects/ttt-scala/target/scala-2.13/classes/ttt/Game.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ttt/Player.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gauravsa/IdeaProjects/projects/ttt-scala/target/scala-2.13/classes/ttt/Player.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ttt/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gauravsa/IdeaProjects/projects/ttt-scala/target/scala-2.13/classes/ttt/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ttt/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/gauravsa/IdeaProjects/projects/ttt-scala/target/scala-2.13/classes/ttt/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
